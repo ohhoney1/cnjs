@@ -1,0 +1,23 @@
+{
+  "name": "cnjs",
+  "version": "1.0.0",
+  "description": "javascript pattern utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohhoney1/cnjs.git"
+  },
+  "keywords": [
+    "patterns",
+    "utils"
+  ],
+  "author": "cnjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohhoney1/cnjs/issues"
+  },
+  "homepage": "https://github.com/ohhoney1/cnjs#readme"
+}
